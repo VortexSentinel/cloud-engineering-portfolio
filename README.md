@@ -1,81 +1,88 @@
-# Rajnish Jha | Cloud & DevOps Portfolio
+# ☁️ Rajnish Jha | Cloud & DevOps Portfolio
 
 ## About Me
 
-I am a Cloud & DevOps Engineer (Trainee) transitioning from a non-IT background into cloud computing through hands-on AWS and DevOps projects.
+I am a Cloud & DevOps Engineer (Trainee) currently pursuing an Advanced Certification in Cloud Computing and DevOps from IIT Roorkee.
 
-Currently pursuing an Advanced Certification in Cloud Computing and DevOps from IIT Roorkee while building real-world projects using AWS, Linux, Git, Docker, and automation tools.
+Coming from a non-IT background, I transitioned into cloud computing through hands-on projects using AWS, Linux, Git, Docker, Bash, and Python.
+
+My focus is on building practical cloud infrastructure, automation workflows, secure architectures, and DevOps solutions.
 
 ---
 
-## Technical Skills
+# 🛠 Technical Skills
 
-### Cloud Platforms
+## Cloud Platforms
 - Amazon Web Services (AWS)
 
-### AWS Services
+## AWS Services
 - EC2
 - IAM
 - S3
 - Lambda
-- DynamoDB
 - API Gateway
+- DynamoDB
 - SQS
 - Redshift
 - Elastic Beanstalk
 - CloudWatch
 
-### DevOps Tools
+## DevOps Tools
 - Git
 - GitHub
 - Docker
 
-### Operating Systems
+## Operating Systems
 - Linux
 
-### Scripting
+## Scripting
 - Bash
 - Python
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
-| Project | Skills |
-|----------|----------|
-| AWS Cloud Security with IAM | IAM, Security, EC2, Access Control |
-| AWS 3-Tier Architecture | VPC, EC2, Security Groups, Networking |
-| Serverless Application | Lambda, API Gateway, DynamoDB |
-| AWS CI/CD Pipeline | GitHub, CI/CD, Automation |
-| DynamoDB Database Project | NoSQL Database Design |
-| Redshift Data Warehouse Project | Analytics and Data Warehousing |
+| Project | Core Skills |
+|----------|-------------|
+| AWS Cloud Security with IAM | IAM, EC2, Access Control |
+| AWS Three-Tier Architecture | VPC, Networking, Security Groups |
+| Serverless Web Application | Lambda, API Gateway, DynamoDB |
+| AWS CI/CD Pipeline | GitHub Actions, Automation |
+| DynamoDB Projects | NoSQL Database |
+| Amazon Redshift Projects | Data Warehousing |
 
 ---
 
-## Current Learning Path
+# 📚 Current Learning
 
-- AWS Solutions Architecture
 - Docker
 - Kubernetes
 - Terraform
 - Linux Administration
-- CI/CD Automation
+- CI/CD Pipelines
+- AWS Solutions Architecture
 
 ---
 
-## Certifications
+# 🎯 Career Goal
 
-- Advanced Certification in Cloud Computing and DevOps (IIT Roorkee)
+Seeking opportunities as:
+
+- Junior Cloud Engineer
+- AWS Cloud Engineer
+- DevOps Engineer
+- Site Reliability Engineer (Entry-Level)
 
 ---
 
-## Connect With Me
+# 📫 Connect With Me
 
-### LinkedIn
+LinkedIn:
 www.linkedin.com/in/rajnish-k-jha
 
-### GitHub
+GitHub:
 github.com/VortexSentinel
 
-### Email
+Email:
 rajnish96jha@gmail.com
